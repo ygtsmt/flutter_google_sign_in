@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009071345465",
+    "project_id": "qwert-qwertyy-project",
+    "storage_bucket": "qwert-qwertyy-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009071345465:android:b87f0afc27e7c6fd7562e8",
+        "android_client_info": {
+          "package_name": "com.sdfsf.sdfsdfsdfsd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSp-f1QgEFoR7O7xCaq-9EMg4TYw8aygE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
